@@ -19,5 +19,11 @@ We will use four different classifications method to detect classify the Fraud a
 <li> <b> Support Vector Classifier (CSV) </b> </li>
 <li> <b> Decission Tree </b> </li>
 
+<h3> Our Goals: </h3>
 
+<li> Gain insights into the distribution of the limited data provided to us. </li>
+<li> Use the NearMiss algorithm to create a sub-dataframe with a 50/50 split of "Fraud" and "Non-Fraud" transactions. </li>
+<li> Select the classifiers to use and evaluate their accuracy to determine the best performing one. </li>
+<li> Build a Neural Network model and compare its accuracy to the best performing classifier. </li>
+<li> Gain an understanding of common mistakes made while working with imbalanced datasets. </li>
 
